@@ -1,0 +1,10 @@
+{
+  "name": "dev.ezhtellar.funk",
+  "version": "0.1.0",
+  "description": "functional utilities",
+  "keywords": [
+    "fp"
+  ],
+  "author": "Jerome Gamo",
+  "license": "ISC"
+}
